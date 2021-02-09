@@ -83,6 +83,7 @@ const users = [
 // find
 // const loneliestNumber = arr.find(element => element === 1)
 // loneliestNumber => 1
+// find either returs the found element or null
 // const sayWhaaaaat =  arr.find(element => element === 10000000)
 // sayWhaaaat => null
 
